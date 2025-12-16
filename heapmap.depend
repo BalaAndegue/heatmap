@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1761208971 source:/home/bala/projet_c++/heapmap/main.c
+	<stdio.h>
+	<stdlib.h>
+
